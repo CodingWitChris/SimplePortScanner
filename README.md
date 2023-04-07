@@ -1,5 +1,5 @@
 # SimplePortScanner
-# Put in your Ip addy and make sure you list the ports your want to scan.
+# Put in your Ip addy and make sure you list the ports your want to scan..
 
 import socket 
 
